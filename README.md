@@ -34,6 +34,6 @@ How to Use:
 - To run this code, you will use the attached R code and RAND HRS Longitudinal File 2018 (V1) Waves 10–13 data (available at https://hrs.isr.umich.edu/about).
 
 # BBAL File Paths
- - Dataset: "\Projects\HRS_onedrive_orig\RawData"
+ - Dataset: "\Projects\HRS_onedrive_orig\RawData\randhrs1992_2018v1_SPSS"
  - Dataset Documentation: "\Projects\BADS_2021E0199\HRS\BOA\Stauder_FYP_BOA_Long-Fit-Cog\randhrs1992_2018v1_File-Documentation.pdf"
  - Script: "\Projects\BADS_2021E0199\HRS\BOA\Stauder_FYP_BOA_Long-Fit-Cog\Scripts\2025-01-03_HRS_BOA_Manuscript_GitHub-Code.R"      
